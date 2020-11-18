@@ -27,3 +27,19 @@ body {
     color: white;
     font-weight: 700;
 }
+
+.Testbutton {
+    margin: 30px;
+    padding: 10px 15px 10px 15px;
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    outline: none;
+    transition: .4s;
+    font-weight: bolder;
+}
+
+.Testbutton:hover {
+    background: white;
+    color: black;
+}

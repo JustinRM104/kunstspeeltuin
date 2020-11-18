@@ -22,6 +22,8 @@
         </h1>
     </div>
 
+    <button class="Testbutton">TestButton</button>
+
     <script src="jquery.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.fog.min.js"></script>
