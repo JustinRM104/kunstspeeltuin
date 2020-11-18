@@ -14,6 +14,14 @@
 <body>
     <div id="bg__vanta"></div>
 
+    <div class="container-fluid">
+        <h1 class="site-heading text-center text-white d-none d-lg-block">
+            <span class="site-heading-upper text-primary mb-3 page__title">The real deal</span>
+            <br>
+            <span class="site-heading-lower page__title font-weight-bold">Kunstspeeltuin</span>
+        </h1>
+    </div>
+
     <script src="jquery.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.fog.min.js"></script>

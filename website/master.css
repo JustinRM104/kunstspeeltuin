@@ -21,3 +21,9 @@ body {
 
     z-index: -1;
 }
+
+.page__title {
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    font-weight: 700;
+}
